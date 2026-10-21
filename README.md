@@ -1,4 +1,4 @@
-# wealthops-web
+# wealthops-ai-web
 
 React, TypeScript, and Vite advisor/operations workstation foundation. It uses a configurable light/dark/system theme, a centralized API client, and local Development-only synthetic role login.
 

@@ -8,7 +8,7 @@ export default defineConfig({
     strictPort: true,
     proxy: {
       "/api": {
-        target: "http://localhost:8000",
+        target: "https://wealthops-ai.local",
         changeOrigin: true,
       },
     },

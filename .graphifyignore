@@ -1,0 +1,6 @@
+graphify-out/
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+*.log

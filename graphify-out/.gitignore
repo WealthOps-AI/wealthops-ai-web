@@ -1,0 +1,6 @@
+cache/
+cost.json
+.graphify_analysis.json
+.graphify_root
+graph.html
+GRAPH_REPORT.md

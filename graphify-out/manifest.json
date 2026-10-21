@@ -1,0 +1,80 @@
+{
+  "package.json": {
+    "mtime": 1792571100.3055701,
+    "seen": 1792589017.545596,
+    "ast_hash": "bace2061344c7614720d6a2dc848d33d",
+    "semantic_hash": "bace2061344c7614720d6a2dc848d33d"
+  },
+  "src/api/client.test.ts": {
+    "mtime": 1791859833.3073628,
+    "seen": 1792589017.545596,
+    "ast_hash": "0be2303653546031615165c17a637311",
+    "semantic_hash": "0be2303653546031615165c17a637311"
+  },
+  "src/api/client.ts": {
+    "mtime": 1791830651.5838485,
+    "seen": 1792589017.545596,
+    "ast_hash": "36d6bdfb0f961e5396aeacacb304652c",
+    "semantic_hash": "36d6bdfb0f961e5396aeacacb304652c"
+  },
+  "src/api/wealthOps.ts": {
+    "mtime": 1791830651.606476,
+    "seen": 1792589017.545596,
+    "ast_hash": "5d09dec343d0e9c33aa99932dfc47f66",
+    "semantic_hash": "5d09dec343d0e9c33aa99932dfc47f66"
+  },
+  "src/auth/AuthProvider.tsx": {
+    "mtime": 1791830943.6713562,
+    "seen": 1792589017.545596,
+    "ast_hash": "a196b2b254249c7e2c879eed0d409e2c",
+    "semantic_hash": "a196b2b254249c7e2c879eed0d409e2c"
+  },
+  "src/config.ts": {
+    "mtime": 1791830848.254027,
+    "seen": 1792589017.545596,
+    "ast_hash": "022161ae3d42cd11ea32bd286d1adb45",
+    "semantic_hash": "022161ae3d42cd11ea32bd286d1adb45"
+  },
+  "src/main.tsx": {
+    "mtime": 1791830651.5164917,
+    "seen": 1792589017.545596,
+    "ast_hash": "6a892c4dcda3d4e42357226be983f18b",
+    "semantic_hash": "6a892c4dcda3d4e42357226be983f18b"
+  },
+  "src/shell/App.tsx": {
+    "mtime": 1791859768.7614496,
+    "seen": 1792589017.545596,
+    "ast_hash": "944b2f5f4fdb95730e8280436b4158f2",
+    "semantic_hash": "944b2f5f4fdb95730e8280436b4158f2"
+  },
+  "src/theme/ThemeProvider.tsx": {
+    "mtime": 1791830651.6320639,
+    "seen": 1792589017.545596,
+    "ast_hash": "369b3801f93456174581ed8065be6e86",
+    "semantic_hash": "369b3801f93456174581ed8065be6e86"
+  },
+  "src/types.ts": {
+    "mtime": 1791830651.559009,
+    "seen": 1792589017.545596,
+    "ast_hash": "0d51d4f88351179745a133b0fcd4a877",
+    "semantic_hash": "0d51d4f88351179745a133b0fcd4a877"
+  },
+  "src/vite-env.d.ts": {
+    "mtime": 1791830999.444618,
+    "seen": 1792589017.545596,
+    "ast_hash": "8f68c27c3fc38817b2726b20e2d4f1ee",
+    "semantic_hash": "8f68c27c3fc38817b2726b20e2d4f1ee"
+  },
+  "tsconfig.json": {
+    "mtime": 1791830651.4962614,
+    "seen": 1792589017.545596,
+    "ast_hash": "2a7637fd6a57348e029222b481d66155",
+    "semantic_hash": "2a7637fd6a57348e029222b481d66155"
+  },
+  "vite.config.ts": {
+    "mtime": 1792573513.5168383,
+    "seen": 1792589017.545596,
+    "ast_hash": "56d82697cec775b07d3154bf95e1c661",
+    "semantic_hash": "56d82697cec775b07d3154bf95e1c661"
+  }
+}
